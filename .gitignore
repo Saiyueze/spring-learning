@@ -1,0 +1,53 @@
+/logs
+
+HELP.md
+target/
+classes/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/build/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+# maven
+.mvn
+mvnw
+mvnw.cmd
+
+# Java
+.class
+
+*.log
+*.tar.gz
+*.rar
+*.zip
+*.bak
+
+### others ###
+agent/
+apps/
+/.metadata/
